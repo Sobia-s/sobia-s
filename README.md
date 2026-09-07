@@ -7,7 +7,7 @@
 - I build responsive, accessible web experiences with React & JavaScript<br>
 - I'm the Founder & Lead Developer of Lumina, a complete React portfolio system<br>
 - I turn ideas into structured, thoughtful, and user-focused interfaces<br>
-- I specialized in Frontend Development through Coursera by Meta<br>
+- I specialized in Frontend Development through Meta on Coursera<br>
 
 ---
 
