@@ -40,8 +40,7 @@ Lumina is a portfolio system that helps tech professionals launch a polished dig
   </a>
   &nbsp;&nbsp;
   <a href="https://sobia-portfolio.netlify.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" />
-  </a>
+    <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" /></a>
   &nbsp;&nbsp;
   <a href="https://sobia.gumroad.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" />
