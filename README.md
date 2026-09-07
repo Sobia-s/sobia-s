@@ -48,6 +48,8 @@ Lumina is a portfolio system that helps tech professionals launch a polished dig
 
 **Build with purpose. Tell your story. Create something meaningful. 💙**
 
+Thanks for stopping by!
+
 </div>
 
 
