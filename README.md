@@ -2,20 +2,25 @@
 
 # Hi and Welcome to My GitHub!👋
 
-## I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
+## I'm Sobia, a Frontend React Developer, product builder, and creator of Lumina. 
 
 - I build responsive, accessible web experiences with React & JavaScript<br>
-- Founder & Lead Developer of Lumina, a complete React portfolio system<br>
+- I'm the Founder & Lead Developer of Lumina, a complete React portfolio system<br>
 - I turn ideas into structured, thoughtful, and user-focused interfaces<br>
-- I specialized in Frontend Development from Coursera (Meta)<br>
+- I specialized in Frontend Development through Coursera by Meta<br>
 
 ---
 
-## Lumina: A complete portfolio system
+## Lumina: A Complete React Portfolio System
 
-- Built **Lumina**, focused on structure, storytelling, and online presence
-- Designed reusable, config-driven components and responsive UI
-- Built and launched it **end-to-end, from idea to production**
+Lumina is a portfolio template that helps tech professionals launch a polished digital presence without the usual design and backend complexity.
+
+- Built **Lumina** from idea to production, handling the product and development end-to-end.
+- Designed reusable, config-driven components with a focus on scalability and maintainability.
+- Created a responsive experience centered around structure, storytelling, and online presence.
+
+<a href="https://lumina-portfolio-system.vercel.app/">🔗 Explore Lumina</a>
+
 
 ---
 
