@@ -12,9 +12,7 @@
 
 ---
 
-## 🚀 Lumina
-
-My independent React portfolio system:
+## Lumina ### A complete portfolio system
 
 - Built **Lumina**, a complete portfolio system focused on structure, storytelling, and online presence
 - Designed reusable, config-driven components and responsive UI
