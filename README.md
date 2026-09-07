@@ -35,10 +35,21 @@ Lumina is a portfolio system that helps tech professionals launch a polished dig
 ## My Online Presence
 
 <p align="left"> 
- <a href="https://www.linkedin.com/in/sobiasoomro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
- &nbsp;&nbsp; <a href="https://sobia-portfolio.netlify.app/"> <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" /></a>
- &nbsp;&nbsp; <a href="https://sobia.gumroad.com/"> <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" /></a>
- &nbsp;&nbsp; <a href="mailto:sobiasoomro97@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" /></a> 
+  <a href="https://www.linkedin.com/in/sobiasoomro/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sobia-portfolio.netlify.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sobia.gumroad.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sobiasoomro97@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" />
+  </a>
 </p>
 
 
