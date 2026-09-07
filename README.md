@@ -25,6 +25,10 @@
 
 ## 🛠️ Tools & Tech
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,wordpress,vite,vscode" />
+</p>
+
 ---
 
 ## 🌍 Find Me Online
