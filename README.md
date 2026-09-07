@@ -33,7 +33,7 @@
  <a href="https://www.linkedin.com/in/sobiasoomro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
  &nbsp;&nbsp; <a href="https://sobia-portfolio.netlify.app/"> <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" /></a>
  &nbsp;&nbsp; <a href="https://sobia.gumroad.com/"> <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" /></a>
- &nbsp;&nbsp; <a href="sobiasoomro97@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" /></a> 
+ &nbsp;&nbsp; <a href="mailto:sobiasoomro97@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" /></a> 
 </p>
 
 
