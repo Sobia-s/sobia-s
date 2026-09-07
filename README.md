@@ -31,7 +31,21 @@
 
 ---
 
-## 🌍 Find Me Online
+## 🌐 Find Me Online
+
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+- 🚀 [Lumina](YOUR_LUMINA_URL)
+- 🛍️ [Gumroad](YOUR_GUMROAD_URL)
+- 📧 [Email](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+**Build · Structure · Story · Experience**
+
+</div>
 
 
 </div>
