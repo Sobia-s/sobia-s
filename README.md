@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi and Welcome!👋
+# Hi and Welcome to My GitHub!👋
 
 ## I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
 
