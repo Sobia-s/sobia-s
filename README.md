@@ -46,7 +46,8 @@ Lumina is a portfolio template that helps tech professionals launch a polished d
 
 <div align="left">
 
-**Build · Structure · Story · Experience**
+**Build with purpose. Tell your story. Create something meaningful. 💙**
+**Thanks for being here!  **
 
 </div>
 
