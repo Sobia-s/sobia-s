@@ -40,7 +40,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 **Build · Structure · Story · Experience**
 
