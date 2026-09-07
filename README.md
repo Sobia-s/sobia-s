@@ -2,7 +2,7 @@
 
 # Hi and Welcome!👋
 
-### I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
+## I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
 
 - I build responsive, accessible web experiences with React & JavaScript<br>
 - Founder & Lead Developer of Lumina, a complete React portfolio system<br>
