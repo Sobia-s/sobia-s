@@ -26,7 +26,7 @@
 ## 🛠️ Tools & Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,wordpress,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,wordpress,vscode,prettier,bash" />
 </p>
 
 ---
