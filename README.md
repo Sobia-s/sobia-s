@@ -5,17 +5,16 @@
 ### I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
 
 💻 I build responsive, accessible web experiences with React & JavaScript<br>
-🚀 Founder & Lead Developer of Lumina, a complete React portfolio system<br>
+🎯 Founder & Lead Developer of Lumina, a complete React portfolio system<br>
 🎨 I turn ideas into structured, thoughtful, and user-focused interfaces<br>
-🎓 Frontend Development Specialization - Meta / Coursera<br>
-🏅 Holder of 10 industry certifications (Frontend development+, JavaScript Essentials+, and more)<br>
+🎓 I specialized in Frontend Development from Coursera (Meta)<br>
 🌐 Focused on frontend development, digital products, and strong online presence
 
 ---
 
 ## 🚀 Lumina
 
-🎯 My independent React portfolio system:
+My independent React portfolio system:
 
 - Built **Lumina**, a complete portfolio system focused on structure, storytelling, and online presence
 - Designed reusable, config-driven components and responsive UI
