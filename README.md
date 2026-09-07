@@ -33,7 +33,7 @@
 
 ## 🌐 Find Me Online
 
-<p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://cdn.simpleicons.org/linkedin" width="40" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://cdn.simpleicons.org/googleearth" width="40" alt="Portfolio" /> </a> &nbsp;&nbsp; <a href="YOUR_GUMROAD_URL"> <img src="https://cdn.simpleicons.org/gumroad" width="40" alt="Gumroad" /> </a> &nbsp;&nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://cdn.simpleicons.org/gmail" width="40" alt="Email" /> </a> </p>
+<p align="left"> <a href="YOUR_LINKEDIN_URL"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://cdn.simpleicons.org/internetarchive" width="40" height="40" alt="Portfolio" /> </a> &nbsp;&nbsp; <a href="YOUR_GUMROAD_URL"> <img src="https://cdn.simpleicons.org/gumroad" width="40" height="40" alt="Gumroad" /> </a> &nbsp;&nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" /> </a> </p>
 
 
 ---
