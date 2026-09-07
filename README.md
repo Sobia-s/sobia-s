@@ -12,7 +12,7 @@
 
 ---
 
-## Lumina ### A complete portfolio system
+## Lumina: A complete portfolio system
 
 - Built **Lumina**, a complete portfolio system focused on structure, storytelling, and online presence
 - Designed reusable, config-driven components and responsive UI
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tools & Tech
+## Tools & Tech
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,wordpress,vscode" />
