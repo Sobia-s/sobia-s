@@ -8,13 +8,12 @@
 - Founder & Lead Developer of Lumina, a complete React portfolio system<br>
 - I turn ideas into structured, thoughtful, and user-focused interfaces<br>
 - I specialized in Frontend Development from Coursera (Meta)<br>
-- Focused on frontend development, digital products, and strong online presence
 
 ---
 
 ## Lumina: A complete portfolio system
 
-- Built **Lumina**, a complete portfolio system focused on structure, storytelling, and online presence
+- Built **Lumina**, focused on structure, storytelling, and online presence
 - Designed reusable, config-driven components and responsive UI
 - Built and launched it **end-to-end, from idea to production**
 
@@ -31,10 +30,10 @@
 ## My Online Presence
 
 <p align="left"> 
- <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
- &nbsp;&nbsp; <a href="YOUR_PORTFOLIO_URL"> <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" /></a>
- &nbsp;&nbsp; <a href="YOUR_GUMROAD_URL"> <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" /></a>
- &nbsp;&nbsp; <a href="mailto:YOUR_EMAIL"> <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" /></a> 
+ <a href="https://www.linkedin.com/in/sobiasoomro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
+ &nbsp;&nbsp; <a href="https://sobia-portfolio.netlify.app/"> <img src="https://cdn.simpleicons.org/googleearth" width="30" height="30" alt="Portfolio" /></a>
+ &nbsp;&nbsp; <a href="https://sobia.gumroad.com/"> <img src="https://cdn.simpleicons.org/gumroad" width="30" height="30" alt="Gumroad" /></a>
+ &nbsp;&nbsp; <a href="sobiasoomro97@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" width="30" height="30" alt="Email" /></a> 
 </p>
 
 
