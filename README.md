@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 Find Me Online
+## My Online Presence
 
 <p align="left"> 
  <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" alt="LinkedIn" /></a>
